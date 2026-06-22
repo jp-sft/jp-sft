@@ -10,17 +10,15 @@
 </div>
 
 ---
-
 ### À propos de moi
 
-Ingénieur en informatique diplômé en 2022, mon approche de l'ingénierie logicielle est profondément ancrée dans la philosophie stoïcienne et la discipline. Je recherche l'excellence dans chaque ligne de code, en alliant performances techniques et rigueur d'exécution.
+Ingénieur logiciel Full-Stack (diplômé en 2022), je conçois des architectures robustes en alliant performances techniques et une rigueur d'exécution absolue. Je recherche l'excellence dans chaque ligne de code.
 
-- 💼 **Poste actuel :** Développeur à distance chez **BRMTeck** (brm.tn), où je travaille sur la mise en place d'une solution SaaS basée sur Odoo en open source, ainsi que sur des systèmes complets (Comptabilité, Ventes, Production, RH, Inventaire).
-- 🚀 **Entrepreneuriat :** Fondateur de **KODXO**, je développe des solutions SaaS, des architectures agentiques et des stratégies de trading algorithmique.
-- 🧠 **IA & Data :** Expertise initiée lors de mon projet de fin d'études (système web d'extraction d'informations structurées depuis des factures et documents financiers). Aujourd'hui, je développe des plateformes cloud d'agents IA multi-providers.
-- 🌍 **Déploiement International :** J'ai conçu des solutions de gestion sur mesure déployées en Tunisie, au Maroc et au Gabon (Web, ERP et Mobile).
-- ⚡ **Discipline :** Ma journée débute à 2h00 du matin par une session de *Deep Work*. Pratique de la course de fond (jusqu'à 35km) et inspiration continue d'auteurs comme Marc-Aurèle et David Goggins.
-
+- 💼 **Poste actuel :** Développeur à distance chez [BRMTeck](https://brm.tn), dédié à la conception d'une solution SaaS open-source basée sur Odoo et au déploiement de modules ERP complets.
+- 🚀 **Entrepreneuriat :** Fondateur de [KODXO](#), je crée des solutions SaaS (comme Bailkey), des architectures agentiques et des algorithmes de trading sur mesure.
+- 🧠 **IA & Data :** Créateur de plateformes cloud d'agents IA multi-providers et concepteur de systèmes d'extraction de données structurées (RAG, OCR financier).
+- 🌍 **Déploiement International :** J'ai livré des solutions de gestion Web, Mobile et ERP utilisées en production en Tunisie, au Maroc et au Gabon.
+- ⚡ **Discipline de fer :** Ma journée débute à 2h00 par une session de *Deep Work*. Coureur de fond (jusqu'à 35km), mon approche du travail est profondément ancrée dans le stoïcisme (Marc-Aurèle, Epictète) et les principes de David Goggins.
 ---
 
 ### Ma Stack Technique & Mes Outils
