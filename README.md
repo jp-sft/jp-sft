@@ -9,6 +9,7 @@
   [![KODXO](https://img.shields.io/badge/KODXO_Agency-101010?style=for-the-badge)](#)
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=jp-sft&style=flat-square&color=007ec6&label=Profile+views" alt="Profile views" />
+  <a href="https://user-badge.committers.top/cameroon_private/jp-sft"><img src="https://user-badge.committers.top/cameroon_private/jp-sft.svg" alt="committers.top badge" /></a>
 </div>
 
 ---
