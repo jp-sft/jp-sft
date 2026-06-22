@@ -7,18 +7,22 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-pango/)
   [![KODXO](https://img.shields.io/badge/KODXO_Agency-101010?style=for-the-badge)](#)
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=jp-sft&style=flat-square&color=007ec6&label=Profile+views" alt="Profile views" />
 </div>
 
 ---
+
 ### À propos de moi
 
 Ingénieur logiciel Full-Stack (diplômé en 2022), je conçois des architectures robustes en alliant performances techniques et une rigueur d'exécution absolue. Je recherche l'excellence dans chaque ligne de code.
 
-- 💼 **Poste actuel :** Développeur à distance chez [BRMTeck](https://brm.tn), dédié à la conception d'une solution SaaS open-source basée sur Odoo et au déploiement de modules ERP complets.
-- 🚀 **Entrepreneuriat :** Fondateur de [KODXO](#), je crée des solutions SaaS (comme Bailkey), des architectures agentiques et des algorithmes de trading sur mesure.
-- 🧠 **IA & Data :** Créateur de plateformes cloud d'agents IA multi-providers et concepteur de systèmes d'extraction de données structurées (RAG, OCR financier).
-- 🌍 **Déploiement International :** J'ai livré des solutions de gestion Web, Mobile et ERP utilisées en production en Tunisie, au Maroc et au Gabon.
-- ⚡ **Discipline de fer :** Ma journée débute à 2h00 par une session de *Deep Work*. Coureur de fond (jusqu'à 35km), mon approche du travail est profondément ancrée dans le stoïcisme (Marc-Aurèle, Epictète) et les principes de David Goggins.
+- ❖ **Poste actuel :** Développeur à distance chez [BRMTeck](https://brm.tn), dédié à la conception d'une solution SaaS open-source basée sur Odoo et au déploiement de modules ERP complets.
+- ❖ **Entrepreneuriat :** Fondateur de [KODXO](#), je crée des solutions SaaS (comme Bailkey), des architectures agentiques et des algorithmes de trading sur mesure.
+- ❖ **IA & Data :** Créateur de plateformes cloud d'agents IA multi-providers et concepteur de systèmes d'extraction de données structurées (RAG, OCR financier).
+- ❖ **Déploiement International :** J'ai livré des solutions de gestion Web, Mobile et ERP utilisées en production en Tunisie, au Maroc et au Gabon.
+- ❖ **Discipline de fer :** Ma journée débute à 2h00 par une session de *Deep Work*. Coureur de fond (jusqu'à 35km), mon approche du travail est profondément ancrée dans le stoïcisme (Marc-Aurèle, Épictète) et les principes de David Goggins.
+
 ---
 
 ### Ma Stack Technique & Mes Outils
@@ -85,4 +89,4 @@ Ingénieur logiciel Full-Stack (diplômé en 2022), je conçois des architecture
 Je suis toujours ouvert pour discuter d'ingénierie logicielle, d'architecture de systèmes multi-tenants, d'intégration IA ou de philosophie stoïcienne.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessy-pango/)
-[![Email](https://img.shields.io/badge/Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@domaine.com)
+[![Email](https://img.shields.io/badge/Me_Contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessypango@kodxo.com)
