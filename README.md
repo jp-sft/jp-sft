@@ -36,6 +36,7 @@ now:
   founder:   KODXO — SaaS products, AI agents & custom trading algorithms
   focus:     [Odoo 19, AI agents, RAG, Next.js 16, Docker, CI/CD]
   shipped:   [Tunisia 🇹🇳, Morocco 🇲🇦, Gabon 🇬🇦]
+  contrib:   Oliii 🇨🇦 — student integration companion (Canada)
   languages: [French, English]
 ```
 
@@ -49,6 +50,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 - **Entrepreneuriat :** Fondateur de [KODXO](https://kodxo.com) — produits SaaS (Bailkey), architectures agentiques et algorithmes de trading sur mesure.
 - **IA & Data :** Plateformes cloud d'agents IA multi-providers, pipelines RAG et extraction de données structurées (OCR financier, documents juridiques).
 - **International :** Solutions Web, Mobile et ERP en production en Tunisie, au Maroc et au Gabon.
+- **Canada :** Contributeur chez [Oliii](https://www.oliii.ca) — compagnon d'intégration étudiant (backend, web, mobile Expo, IA & infra).
 
 </details>
 
@@ -74,6 +76,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
   <br>
   <img src="https://img.shields.io/badge/Odoo_19-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/OWL_·_QWeb-1a1b27?style=for-the-badge&logo=odoo&logoColor=white" alt="OWL" />
+  <img src="https://img.shields.io/badge/Expo-1a1b27?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 <p align="center"><b>Data, AI & Agents</b><br><br>
@@ -109,6 +112,19 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 | ⚙️ **Infrastructure** | Multi-client Odoo infrastructure, Docker Compose deployments, CI/CD, pinned shared modules |
 | ⚖️ **Legal-tech** | [Tunilex](https://tunilex.net) — Next.js 16 front, chat API, RAG pipelines, FR/AR document linking on Paperless-ngx |
 | 🧩 **Productivity** | Community rebuilds of Documents, Knowledge, Helpdesk, Sign, WhatsApp & VoIP modules |
+
+---
+
+## 🍁 Contributor — Oliii (Canada)
+
+> [**Oliii**](https://www.oliii.ca) is a student integration companion based in Canada. I contribute across the whole product.
+
+| Area | Contribution | Stack |
+| :-- | :-- | :-- |
+| ⚙️ **Backend & API** | Business logic, data model and APIs | Next.js (API) |
+| 🖥️ **Web** | Web platform | Next.js · TypeScript |
+| 📱 **Mobile** | Cross-platform mobile app | Expo · React Native |
+| 🤖 **AI & Infra** | LLM features, RAG, containerised deployments & CI/CD | LLMs · RAG · Docker |
 
 ---
 
