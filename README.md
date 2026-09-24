@@ -36,6 +36,7 @@ now:
   founder:   KODXO — SaaS products, AI agents & custom trading algorithms
   focus:     [Odoo 19, AI agents, RAG, Next.js 16, Docker, CI/CD]
   shipped:   [Tunisia 🇹🇳, Morocco 🇲🇦, Gabon 🇬🇦]
+  contrib:   Oliii 🇨🇦 — student integration companion (Canada)
   languages: [French, English]
 ```
 
@@ -49,6 +50,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 - **Entrepreneuriat :** Fondateur de [KODXO](https://kodxo.com) — produits SaaS (Bailkey), architectures agentiques et algorithmes de trading sur mesure.
 - **IA & Data :** Plateformes cloud d'agents IA multi-providers, pipelines RAG et extraction de données structurées (OCR financier, documents juridiques).
 - **International :** Solutions Web, Mobile et ERP en production en Tunisie, au Maroc et au Gabon.
+- **Canada :** Contributeur chez [Oliii](https://www.oliii.ca) — compagnon d'intégration étudiant (backend, web, mobile Expo, IA & infra).
 
 </details>
 
@@ -60,7 +62,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
   <tr>
     <td align="center" width="25%"><h2>700+</h2><sub>merged pull requests<br>at BRM-Teck</sub></td>
     <td align="center" width="25%"><h2>3</h2><sub>countries with apps<br>in production</sub></td>
-    <td align="center" width="25%"><h2>20+</h2><sub>Odoo / SaaS repositories<br>maintained</sub></td>
+    <td align="center" width="25%"><h2>12,600+</h2><sub>GitHub contributions<br>since 2021</sub></td>
     <td align="center" width="25%"><h2>Odoo 19</h2><sub>certified developer<br>(core & consolidation)</sub></td>
   </tr>
 </table>
@@ -74,6 +76,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
   <br>
   <img src="https://img.shields.io/badge/Odoo_19-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/OWL_·_QWeb-1a1b27?style=for-the-badge&logo=odoo&logoColor=white" alt="OWL" />
+  <img src="https://img.shields.io/badge/Expo-1a1b27?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 <p align="center"><b>Data, AI & Agents</b><br><br>
@@ -112,6 +115,19 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 
 ---
 
+## 🍁 Contributor — Oliii (Canada)
+
+> [**Oliii**](https://www.oliii.ca) is a student integration companion based in Canada. I contribute across the whole product.
+
+| Area | Contribution | Stack |
+| :-- | :-- | :-- |
+| ⚙️ **Backend & API** | Business logic, data model and APIs | Next.js (API) |
+| 🖥️ **Web** | Web platform | Next.js · TypeScript |
+| 📱 **Mobile** | Cross-platform mobile app | Expo · React Native |
+| 🤖 **AI & Infra** | LLM features, RAG, containerised deployments & CI/CD | LLMs · RAG · Docker |
+
+---
+
 ## 🚀 KODXO & client projects
 
 | Project | Description | Stack |
@@ -128,12 +144,12 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 
 ## 🌱 Open source
 
-<p align="center">
-  <a href="https://github.com/jp-sft/dify-dataset-python-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-sft&repo=dify-dataset-python-client&theme=tokyonight&hide_border=true" alt="dify-dataset-python-client" /></a>
-  <a href="https://github.com/jp-sft/dify-ai-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-sft&repo=dify-ai-client&theme=tokyonight&hide_border=true" alt="dify-ai-client" /></a>
-  <a href="https://github.com/kodxo/bailkey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kodxo&repo=bailkey&theme=tokyonight&hide_border=true" alt="bailkey" /></a>
-  <a href="https://github.com/BRM-Teck/approvals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BRM-Teck&repo=approvals&theme=tokyonight&hide_border=true" alt="approvals" /></a>
-</p>
+| Repository | Description | Stats |
+| :-- | :-- | :-- |
+| [**dify-dataset-python-client**](https://github.com/jp-sft/dify-dataset-python-client) | Python client for the Dify Dataset (knowledge base) API | ![stars](https://img.shields.io/github/stars/jp-sft/dify-dataset-python-client?style=flat-square&color=7aa2f7) ![lang](https://img.shields.io/github/languages/top/jp-sft/dify-dataset-python-client?style=flat-square&color=1a1b27) |
+| [**dify-ai-client**](https://github.com/jp-sft/dify-ai-client) | TypeScript client for Dify AI apps | ![stars](https://img.shields.io/github/stars/jp-sft/dify-ai-client?style=flat-square&color=7aa2f7) ![lang](https://img.shields.io/github/languages/top/jp-sft/dify-ai-client?style=flat-square&color=1a1b27) |
+| [**kodxo/bailkey**](https://github.com/kodxo/bailkey) | Property-management SaaS | ![stars](https://img.shields.io/github/stars/kodxo/bailkey?style=flat-square&color=7aa2f7) ![lang](https://img.shields.io/github/languages/top/kodxo/bailkey?style=flat-square&color=1a1b27) |
+| [**BRM-Teck/approvals**](https://github.com/BRM-Teck/approvals) | Odoo approvals module | ![stars](https://img.shields.io/github/stars/BRM-Teck/approvals?style=flat-square&color=7aa2f7) ![lang](https://img.shields.io/github/languages/top/BRM-Teck/approvals?style=flat-square&color=1a1b27) |
 
 **Upstream contributions**
 
@@ -152,24 +168,7 @@ Ingénieur logiciel **Full-Stack** (diplômé en 2022), je conçois des architec
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jp-sft&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-sft&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jp-sft&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jp-sft&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jp-sft/jp-sft/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jp-sft/jp-sft/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/jp-sft/jp-sft/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-  </picture>
 </p>
 
 ---
