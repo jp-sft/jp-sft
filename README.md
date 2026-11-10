@@ -22,6 +22,7 @@ I build **ERP, SaaS and AI products that run in production** — multi-tenant ar
 - 🏭 **Software Engineer (remote) at [BRM-Teck](https://brm.tn)** — an open-source SaaS on Odoo 19 and legal-tech platforms
 - 🚀 **Founder of [KODXO](https://kodxo.com)** — SaaS products, AI agents and custom trading algorithms
 - 🍁 **Contributor at [Oliii](https://www.oliii.ca)** (Canada) — web, mobile and AI for a student integration companion
+- 🌱 **Open-source contributor to [Dify](https://github.com/langgenius/dify)** — bug reports, fixes and client libraries for the LLM app platform
 - 🎓 **Odoo 19 certified** · software engineering graduate (2022) · French & English
 
 <details>
@@ -33,6 +34,7 @@ Je conçois des **ERP, des SaaS et des produits IA qui tournent en production** 
 - 🏭 **Ingénieur logiciel (à distance) chez [BRM-Teck](https://brm.tn)** — un SaaS open-source basé sur Odoo 19 et des plateformes legal-tech
 - 🚀 **Fondateur de [KODXO](https://kodxo.com)** — produits SaaS, agents IA et algorithmes de trading sur mesure
 - 🍁 **Contributeur chez [Oliii](https://www.oliii.ca)** (Canada) — web, mobile et IA pour un compagnon d'intégration étudiant
+- 🌱 **Contributeur open-source à [Dify](https://github.com/langgenius/dify)** — rapports de bugs, correctifs et bibliothèques clientes pour la plateforme d'applications LLM
 - 🎓 **Certifié Odoo 19** · ingénieur logiciel diplômé en 2022 · français et anglais
 
 </details>
@@ -92,23 +94,27 @@ Contributor across the product at [Oliii](https://www.oliii.ca): the web platfor
 
 ## Open source
 
-**Upstream pull requests**
+### <img src="https://github.com/langgenius.png" width="20" alt="" /> Dify — LLM app platform
 
-| Project | Pull request | Status |
+I run Dify in production and contribute back what I find: [3 pull requests](https://github.com/langgenius/dify/pulls?q=is%3Apr+author%3Ajp-sft) and [8 issues](https://github.com/search?q=org%3Alanggenius+author%3Ajp-sft+is%3Aissue&type=issues) across `langgenius/dify` and `dify-official-plugins`, plus client libraries and a plugin.
+
+| Area | Contribution | Status |
 | :-- | :-- | :-: |
-| <img src="https://github.com/langgenius.png" width="16" alt="" /> **langgenius/dify** | [Do not reject structured output on models that do not declare the capability](https://github.com/langgenius/dify/pull/45318) | 🟢 open |
-| <img src="https://github.com/langgenius.png" width="16" alt="" /> **langgenius/dify** | [Validate Start node variables before saving and publishing](https://github.com/langgenius/dify/pull/42290) | 🟢 open |
-| <img src="https://github.com/OCA.png" width="16" alt="" /> **OCA/web** | [`web_responsive`: app menu hides open chat windows](https://github.com/OCA/web/pull/3640) | 🟢 open |
+| **Structured output** | [Fix: do not reject structured output on models that do not declare the capability](https://github.com/langgenius/dify/pull/45318) · [report](https://github.com/langgenius/dify/issues/45317) · [OpenRouter plugin report](https://github.com/langgenius/dify-official-plugins/issues/4155) | 🟢 open |
+| **Workflow** | [Fix: validate Start node variables before saving and publishing](https://github.com/langgenius/dify/pull/42290) · [report](https://github.com/langgenius/dify/issues/42287) | 🟢 open |
+| **Knowledge base** | [Report: automatic metadata filter crashes on time-typed fields](https://github.com/langgenius/dify/issues/41597) · [Weaviate hit-testing returns no results](https://github.com/langgenius/dify/issues/34054) · [regex splitter for chunking](https://github.com/langgenius/dify/issues/11661) | reported |
+| **Agents** | [Report: uploaded documents are not passed to the Agent context](https://github.com/langgenius/dify/issues/35175) | reported |
+| **Client libraries** | [dify-dataset-python-client](https://github.com/jp-sft/dify-dataset-python-client) (Python) · [dify-ai-client](https://github.com/jp-sft/dify-ai-client) · [dify-dataset-client](https://github.com/jp-sft/dify-dataset-client) (TypeScript) | published |
+| **Plugin** | [datalab_dify_plugin](https://github.com/jp-sft/datalab_dify_plugin) — document extraction | published |
 
-**Tools & libraries**
+### Odoo & other tools
 
-| Repository | What it does |
+| Repository | What it is |
 | :-- | :-- |
+| <img src="https://github.com/OCA.png" width="16" alt="" /> **OCA/web** | Pull request: [`web_responsive` — app menu hides open chat windows](https://github.com/OCA/web/pull/3640) (open) |
 | [**mcp-odoo**](https://github.com/jp-sft/mcp-odoo) | MCP server for Odoo (FastMCP v2, bearer-token auth) |
-| [**dify-dataset-python-client**](https://github.com/jp-sft/dify-dataset-python-client) | Python client for the Dify knowledge-base API |
-| [**dify-ai-client**](https://github.com/jp-sft/dify-ai-client) · [**dify-dataset-client**](https://github.com/jp-sft/dify-dataset-client) | TypeScript clients for Dify apps and datasets |
-| [**datalab_dify_plugin**](https://github.com/jp-sft/datalab_dify_plugin) · [**invoice2text**](https://github.com/jp-sft/invoice2text) | Document extraction for AI pipelines |
 | [**BRM-Teck/approvals**](https://github.com/BRM-Teck/approvals) | Approvals module for Odoo |
+| [**invoice2text**](https://github.com/jp-sft/invoice2text) | Invoice text extraction for AI pipelines |
 
 ## GitHub activity
 
