@@ -20,7 +20,7 @@
 I build **ERP, SaaS and AI products that run in production** — multi-tenant architectures, Odoo modules, AI agents and document pipelines — mostly with **Python, Odoo and Next.js**.
 
 - 🏭 **Software Engineer (remote) at [BRM-Teck](https://brm.tn)** — an open-source SaaS on Odoo 19 and legal-tech platforms
-- 🚀 **Founder of [KODXO](https://kodxo.com)** — SaaS products, AI agents and custom trading algorithms
+- 🚀 **Founder of [KODXO](https://kodxo.com)** — our own SaaS products, and client services: custom software, Odoo, AI agents and trading algorithms
 - 🍁 **Contributor at [Oliii](https://www.oliii.ca)** (Canada) — web, mobile and AI for a student integration companion
 - 🌱 **Open-source contributor to [Dify](https://github.com/langgenius/dify)** — bug reports, fixes and client libraries for the LLM app platform
 - 🎓 **Odoo 19 certified** · software engineering graduate (2022) · French & English
@@ -32,7 +32,7 @@ I build **ERP, SaaS and AI products that run in production** — multi-tenant ar
 Je conçois des **ERP, des SaaS et des produits IA qui tournent en production** — architectures multi-tenant, modules Odoo, agents IA et pipelines documentaires — principalement en **Python, Odoo et Next.js**.
 
 - 🏭 **Ingénieur logiciel (à distance) chez [BRM-Teck](https://brm.tn)** — un SaaS open-source basé sur Odoo 19 et des plateformes legal-tech
-- 🚀 **Fondateur de [KODXO](https://kodxo.com)** — produits SaaS, agents IA et algorithmes de trading sur mesure
+- 🚀 **Fondateur de [KODXO](https://kodxo.com)** — nos propres produits SaaS, et des prestations pour les clients : logiciels sur mesure, Odoo, agents IA et algorithmes de trading
 - 🍁 **Contributeur chez [Oliii](https://www.oliii.ca)** (Canada) — web, mobile et IA pour un compagnon d'intégration étudiant
 - 🌱 **Contributeur open-source à [Dify](https://github.com/langgenius/dify)** — rapports de bugs, correctifs et bibliothèques clientes pour la plateforme d'applications LLM
 - 🎓 **Certifié Odoo 19** · ingénieur logiciel diplômé en 2022 · français et anglais
@@ -76,7 +76,22 @@ Most repositories are private; this is what they cover.
 | **Legal-tech** | [Tunilex](https://tunilex.net) — Next.js front, chat API, RAG pipelines, FR/AR document linking on Paperless-ngx |
 | **Productivity** | Community rebuilds of Documents, Knowledge, Helpdesk, Sign, WhatsApp and VoIP modules |
 
-### 🚀 KODXO & client projects
+### 🚀 KODXO — products & client services
+
+Through [KODXO](https://kodxo.com) I take on client work as well as building our own products.
+
+| Service | What I deliver |
+| :-- | :-- |
+| **Custom software** | Web, mobile and multi-tenant SaaS, from data model to deployment |
+| **Odoo & ERP** | Integration, custom modules, migrations and localization |
+| **AI integration** | LLM agents, RAG and document-extraction pipelines plugged into your tools |
+| **Algorithmic trading** | Custom strategies and robots for MetaTrader 5 and TradingView |
+
+<p>
+  <a href="mailto:jessypango@kodxo.com?subject=Project%20with%20KODXO"><img src="https://img.shields.io/badge/Start_a_project-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project with KODXO" /></a>
+</p>
+
+**Selected projects**
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
@@ -131,6 +146,6 @@ Deep work from 2 a.m. · long-distance runner (up to 35 km) · Stoic reader — 
 ---
 
 <p align="center">
-  Open to talk about software architecture, multi-tenant SaaS, Odoo and AI integration<br>
+  Available for client projects through KODXO — custom software, Odoo and AI integration<br>
   <a href="https://www.linkedin.com/in/jessy-pango/">LinkedIn</a> · <a href="mailto:jessypango@kodxo.com">jessypango@kodxo.com</a> · <a href="https://kodxo.com">kodxo.com</a>
 </p>
